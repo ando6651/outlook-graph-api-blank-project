@@ -1,1 +1,3 @@
-# outlook-graph-api-blank-project
+# Graph Mailer
+
+subscribe mail (create,modif,delete) outlook
